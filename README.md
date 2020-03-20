@@ -19,6 +19,24 @@ released December 2, 2019
 
 Thanks to Jonathon Eato for his kind permission in letting us use the recordings of his saxophone as source material for this album.
 
+## About the Patch
+
+This patch controls the wheel movement and sound generation of a single robot in the duet. 
+
+The AI embedded in this patch is based on the principle of Embodied intelligence in which the AI behaviour inside the domain of musicking is perceived to be creative and co-operative.
+
+The patch is listening to the other robot, so a cross matrix will need to be constructed with the sound from one laptop becoming the input for the other, and vice versa.
+
+The AI is also embedded with three types of machine learning: the first a bank of neural nets (traditional statistical ML), the second data queries from raw captured data of a musician improvising with these robots,  and the third a short-term audio-memory buffer.
+
+Together these three learning components represent:
+1) learnt instinctual response (Neural Net)
+2) performance technique (raw data set)
+3) thematic musical material (short-term memory buffer)
+
+A "Turing Test" of this approach to AI is only to be felt inside the musicking.
+
+
 ### About 'PataBots
 'PataBots is a project by the composer Craig Vear. It is dedicated to creating music through artificial intelligence and machine learning.
 
