@@ -1,5 +1,5 @@
 # Seven Pleasures of Pris
-Improvising Ai robot duo modelled on ev2 and improvising drum and sax duet (Craig Vear and Jonathon Eato)
+Improvising Ai robot duo modelled on ev2: an improvising drum and sax duet (Craig Vear and Jonathon Eato)
 
 Album available at https://patabots.bandcamp.com/album/seven-pleasures-of-pris
 
