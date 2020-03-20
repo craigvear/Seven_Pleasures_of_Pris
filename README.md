@@ -19,9 +19,9 @@ released December 2, 2019
 
 Thanks to Jonathon Eato for his kind permission in letting us use the recordings of his saxophone as source material for this album.
 
-## About the Patch
+## About the Code
 
-This patch controls the wheel movement and sound generation of a single robot in the duet. 
+The Max patch controls the wheel movement and sound generation of a single robot in the duet. A seperate python script controls the robot movement through OSC data transmission from this main patch.
 
 The AI embedded in this patch is based on the principle of Embodied intelligence in which the AI behaviour inside the domain of musicking is perceived to be creative and co-operative.
 
@@ -37,7 +37,7 @@ Together these three learning components represent:
 A "Turing Test" of this approach to AI is only to be felt inside the musicking.
 
 
-### About 'PataBots
+## About 'PataBots
 'PataBots is a project by the composer Craig Vear. It is dedicated to creating music through artificial intelligence and machine learning.
 
 The name 'PataBots combines 'Pataphysics and Robotics which are core to this project. 'Pataphysics is the science that examines imaginary phenomena.
