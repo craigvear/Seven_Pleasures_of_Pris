@@ -18,3 +18,8 @@ credits
 released December 2, 2019 
 
 Thanks to Jonathon Eato for his kind permission in letting us use the recordings of his saxophone as source material for this album.
+
+### About 'PataBots
+'PataBots is a project by the composer Craig Vear. It is dedicated to creating music through artificial intelligence and machine learning.
+
+The name 'PataBots combines 'Pataphysics and Robotics which are core to this project. 'Pataphysics is the science that examines imaginary phenomena.
