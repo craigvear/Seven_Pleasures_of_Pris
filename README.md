@@ -48,3 +48,8 @@ A "Turing Test" of this approach to AI is only to be felt inside the musicking.
 I have included the machine learning environment and all the datasets. The datasets weere formed using the follwing features: ID, kinect_limb, x, y, z, audio_freq, audio_amp
 
 All other details are embedded into the patch.
+
+There are three modes for performance:
+1) AI and robots (duet or single) with human musician(s) (will need to be listening to each other)
+2) Robot duet
+3) Standalone AI
