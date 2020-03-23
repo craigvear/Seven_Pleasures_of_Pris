@@ -12,7 +12,11 @@ The AI underpinning each Bot is driven by several Creative AI datasets and Machi
 2) dataset records of previous live improvisations 
 3) statistical correlations using multi-level perceptual neural-networks 
 
-These are then controlled by an affect module that responds to the dynamics of the live improvisation and manipulates a gate system that recombines these streams into a final data flow. It is this that is used to drive the wheels of the physical bot and trigger the sounds.
+These are then controlled by an affect module that responds to the dynamics of the live improvisation and manipulates a gate system that recombines these streams into a final data flow. It is this that is used to drive the wheels of the physical bot and trigger the sounds. The affect module, containging routing and smoothing, are the two most important methods in this whole system. It is important that all the other elements are built using data and symbolic algorithms from inside the embodied relationship of musicking. But these methods are the core of what I understand it is to do musicking:
+1) listening
+2) having my own train-of-thought
+3) being surprised and maybe doing something with that
+4) being surprising
 
 credits
 released December 2, 2019 
