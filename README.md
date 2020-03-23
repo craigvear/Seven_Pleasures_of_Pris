@@ -41,7 +41,10 @@ Together these three learning components represent:
 A "Turing Test" of this approach to AI is only to be felt inside the musicking.
 
 
-## About 'PataBots
-'PataBots is a project by the composer Craig Vear. It is dedicated to creating music through artificial intelligence and machine learning.
+## Setup
+* 2 laptops each running a version of the AI software in Max:1) /seven_pleasure_of_pris_vear.maxpat; 2) /seven_pleasure_of_pris_eato.maxpat
+* 2 robots each listening to OSC streams from the laptops. I used 2x GoPiGo piggy backs ontop of Raspberry Pi. The robots do not do any other processing other than translate the wheel Left and wheel Right data into physical movement of the robot.
 
-The name 'PataBots combines 'Pataphysics and Robotics which are core to this project. 'Pataphysics is the science that examines imaginary phenomena.
+I have included the machine learning environment and all the datasets. The datasets weere formed using the follwing features: ID, kinect_limb, x, y, z, audio_freq, audio_amp
+
+All other details are embedded into the patch.
