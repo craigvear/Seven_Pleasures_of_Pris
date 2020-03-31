@@ -10,7 +10,7 @@ Each AI-Bot is controlled by its own AI and is working without any human interve
 The AI underpinning each Bot is driven by several Creative AI datasets and Machine Learning using a special process called embodied intelligence. The datasets are derived from real human musicians improvising with an AI-Bot. The AI operates on several concurrent processes: 
 1) raw data from the live music 
 2) dataset records of previous live improvisations 
-3) statistical correlations using multi-level perceptual neural-networks 
+3) statistical correlations using multi-layer perceptron neural-networks 
 
 These are then controlled by an affect module that responds to the dynamics of the live improvisation and manipulates a gate system that recombines these streams into a final data flow. It is this that is used to drive the wheels of the physical bot and trigger the sounds. The affect module, containing triggering, routing and smoothing, are the three most important methods in this whole system. It is important that all the other elements are built using data and symbolic algorithms from inside the embodied relationship of musicking. But these methods are the core of what I understand it is to do musicking:
 1) listening
